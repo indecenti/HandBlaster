@@ -29,7 +29,6 @@
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/point-black-ultimate.git
-cd point-black-ultimate
 
 # Install dependencies
 pip install pygame opencv-python mediapipe numpy pyaudio
